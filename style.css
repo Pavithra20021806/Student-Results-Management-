@@ -1,0 +1,69 @@
+@charset "utf-8";
+/* CSS Document */
+
+.head
+{
+	font-family:"Trebuchet MS";
+	font-size:40px;
+	font-weight: bold;
+	color:green;
+	margin-left:50px;
+
+}
+
+.hr
+{
+	width:50%;
+	height:5px;
+	border-radius:500px;
+	background-color:white;
+}
+
+.subhead
+{
+	font-weight: bold;
+	font-family:"Segoe UI";
+	color:#FC0;
+	font-size:24px;
+	text-decoration:underline;
+}
+
+
+
+.labels
+{
+	font-weight: bold;
+	font-family:"Segoe UI";
+	color:green;
+	font-size:16px;
+	font-style:italic;
+}
+
+.fields
+{
+	font-weight: bold;
+	font-family:"Segoe UI";
+	font-size:14px;
+	padding:2px 5px;
+	color:red;
+	background-color:transparent;
+	border:1px solid black;
+	border-radius:5px;
+}
+
+a.link:link{text-decoration:none;font-weight: bold;font-family:"Trebuchet MS";font-size:14px;color:#28a3a6;}
+a.link:active{text-decoration:none;font-weight: bold;font-family:"Trebuchet MS";font-size:14px;color:#28a3a6;}
+a.link:visited{text-decoration:none;font-family:"Trebuchet MS";font-size:14px;color:#28a3a6;}
+a.link:hover{text-decoration:none;font-weight: bold;font-family:"Trebuchet MS";font-size:15px;color:brown;}
+
+.msg
+{
+	font-family:"Segoe UI";
+	font-size:14px;
+	color:violet;
+}
+
+a.cmd:link{text-decoration:none;font-weight: bold;font-family:"Trebuchet MS";font-size:15px;color:#28a3a6;padding:5px 6px;background-color:transparent;border:1px solid #066;}
+a.cmd:active{text-decoration:none;font-weight: bold;font-family:"Trebuchet MS";font-size:15px;color:#28a3a6;padding:5px 6px;background-color:transparent;border:1px solid #066;}
+a.cmd:visited{text-decoration:none;font-weight: bold;font-family:"Trebuchet MS";font-size:15px;color:#28a3a6;padding:5px 6px;background-color:transparent;border:1px solid #066;}
+a.cmd:hover{text-decoration:none;font-weight: bold;font-family:"Trebuchet MS";font-size:15px;color:brown;padding:5px 6px;background-color:transparent;border:1px solid #066;box-shadow:0px 0px 10px #066;}
